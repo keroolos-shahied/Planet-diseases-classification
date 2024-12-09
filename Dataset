@@ -1,6 +1,4 @@
 This project uses an apple leaf dataset to classify plant diseases. By applying the Random Forest (RF) algorithm, we achieved an accuracy of 100%
 
-# Dataset
-
 You can access the dataset from the following page:  
 [View Dataset Page](https://data.mendeley.com/datasets/9m2dcb5mmr/2)
