@@ -93,7 +93,4 @@ joblib.dump(ensemble_model, model_filename)
 print(f" model saved as {model_filename}")
 
 
-# #retuen model
-# loaded_model = joblib.load(model_filename)
-# y_pred_loaded = loaded_model.predict(X_test)
-# print(f"Accuracy of loaded model: {accuracy_score(y_test, y_pred_loaded) * 100:.2f}%")
+
